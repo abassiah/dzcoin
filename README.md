@@ -1,25 +1,25 @@
 Dzcoin integration/staging tree
 ================================
 
-http://www.dzcoin.org
+http://www.dztransfer.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Dzcoin Developers
+Copyright (c) 2017-2018 Dzcoin Developers
 
 What is Dzcoin?
 ----------------
 
 Dzcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - subsidy halves in 100k blocks (~4 years)
+ - ~270 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - * coins per block
+ - 2018 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Dzcoin client sofware, see http://www.dzcoin.org.
+the Dzcoin client sofware, see http://www.dztransfer.com
 
 License
 -------
